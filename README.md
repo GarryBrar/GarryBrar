@@ -2,7 +2,7 @@
 
 I'm Garry, a software engineer based in Canada. 
 
-I'm likely a bit too ambitious - I attempt to build anything that comes into my head...
+Unfortunately, I'm currently obsessed with trying to build everything that pops into my head...
 
 My main tech stack is Python, C++, and AWS, but I've done a bit of everything - from low-level systems to experimenting with new AI stacks.
 
