@@ -12,4 +12,6 @@ This is a fresh profile where I'll be uploading a collection of random things, s
 - Deep Learning & Recommendation Systems.
 - Familiarizing with AWS Bedrock, S3, and Lambda.
 - Delphi - App coming soon!
-- Brover — A cognitive ETL device built on Raspberry Pi, coming soon!
+- Brover - A cognitive ETL device built on Raspberry Pi, coming soon!
+
+Feel free to reach out! 
