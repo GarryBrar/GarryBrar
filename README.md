@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi, I'm Garry 👋
 
-I'm Garry, a software engineer based in Ottawa, Canada.
+CS student @ Carleton University. Equal parts curious and obsessive about how systems work.
 
-Feel free to reach out, always open to discussion!
+- 🔧 **Building:** Embedded systems, interpreters & AI orchestration agents
+- 🌱 **Learning:** RTOS & firmware optimization · NLP & named entity recognition models
+- 💼 **Experience:** Currently @ **Ericsson** · Previously @ **Telesat & NRC**
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/garrybrar/) · [Portfolio](https://garrybrar.com)
