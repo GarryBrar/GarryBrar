@@ -8,5 +8,5 @@ CS student @ Carleton University. Equal parts curious and obsessive about how sy
 
 ---
 
-### 🤝 Let's Connect
+### 💬 Get In Touch!
 [LinkedIn](https://www.linkedin.com/in/garrybrar/) · [Portfolio](https://garrybrar.com)
